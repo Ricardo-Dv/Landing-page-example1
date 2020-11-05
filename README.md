@@ -1,2 +1,1 @@
-# Screenshot
-![](docs/screenshot.png)
+Landing page utilizando css Grid y otras herramientas
